@@ -8,10 +8,10 @@ Full Stack Developer
 *   🔭  I like to explore new technologies and develop software solutions
 *   🧠  I'm currently studying TypeScript and Next.Js 
 *   🚀  I'm on track for learning more about Blockchain, Web3, SSr/CSr 
-*   In my free time, i pursue to play football, watch movies, series and being with friends 
-*   Fell fre to reach out me for consulting or just for some interesing discussion 
-*   You can shoot me an email at matias@gmail.com. I'll try to responde as soon as I can 
-*   Please have a look at my Resumé for more details about me. I'm open to feedback and suggestions
+*     In my free time, i pursue to play football, watch movies, series and being with friends 
+*   💬  Feel free to reach out me for consulting or just for some interesing discussion 
+*   📫  You can shoot me an email at matias@gmail.com. I'll try to responde as soon as I can 
+*   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
 
