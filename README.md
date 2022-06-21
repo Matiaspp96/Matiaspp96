@@ -17,7 +17,6 @@ Full Stack Developer
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass)](https://skillicons.dev)
-<hr/>
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku)](https://skillicons.dev)
 
 ### Socials
