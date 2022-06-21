@@ -18,7 +18,7 @@ Full Stack Developer
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass)](https://skillicons.dev)
 <hr/>
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku)](https://skillicons.dev)&emsp;
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku)](https://skillicons.dev)
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>&emsp; 
 <a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>&emsp;
 
