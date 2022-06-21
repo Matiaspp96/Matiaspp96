@@ -8,16 +8,16 @@ Full Stack Developer
 *   🔭  I like to explore new technologies and develop software solutions
 *   🧠  I'm currently studying TypeScript and Next.Js 
 *   🚀  I'm on track for learning more about Blockchain, Web3, SSr/CSr 
-*     In my free time, i pursue to play football, watch movies, series and being with friends 
+*   ⚡️  In my free time, i pursue to play football, watch movies, series and being with friends 
 *   💬  Feel free to reach out me for consulting or just for some interesing discussion 
-*   📫  You can shoot me an email at matias@gmail.com. I'll try to responde as soon as I can 
+*   📫  You can shoot me an email at matiaas.p@gmail.com . I'll try to responde as soon as I can 
 *   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><p>JavaScript</p>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><p>HTML5</p>
+<p align="center" >
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><label>JavaScript</label>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><label>HTML5</label>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><p>React</p>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><p>Next.js</p>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><p>JQuery</p>
