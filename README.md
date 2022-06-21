@@ -16,8 +16,7 @@ Full Stack Developer
 *   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass,git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku,vercel,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass,git,express,nodejs,postgres,mongodb,heroku,vercel,azure&perline=8)](https://skillicons.dev)
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=vscode,autocad,sketchup,discord)](https://skillicons.dev)
