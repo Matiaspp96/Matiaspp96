@@ -16,15 +16,11 @@ Full Stack Developer
 *   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
-<p align="center" >  
 [![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass)](https://skillicons.dev)
-</p>
 <hr/>
-<p align="center" >  
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku)](https://skillicons.dev)&emsp;
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>&emsp; 
 <a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>&emsp;
-</p>
 
 ### Socials
 
