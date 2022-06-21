@@ -6,7 +6,7 @@ Hi 👋 My name is Matias
 Full Stack Developer
 --------------------
 
-*   🌍  I'm based in Tucuman - Argentina
+*   🌍  I'm based in Tucuman - Argentina
 *   🔭  I like to explore new technologies and develop software solutions
 *   🧠  I'm currently studying TypeScript and Next.Js 
 *   🚀  I'm on track for learning more about Blockchain, Web3, SSr/CSr 
@@ -16,15 +16,12 @@ Full Stack Developer
 *   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass)](https://skillicons.dev)
+<p align="center" >  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass&theme=light)](https://skillicons.dev)
+</p>
 <hr/>
 <p align="center" >  
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>&emsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>&emsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />&emsp;
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>&emsp; 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&emsp;
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,heroku&theme=light)](https://skillicons.dev)
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>&emsp; 
 <a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a>&emsp;
 </p>
