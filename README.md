@@ -26,7 +26,7 @@ Full Stack Developer
 <p align="center"> <a href="https://www.github.com/Matiaspp96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&emsp;
 <a href="http://www.instagram.com/matias.palomo96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&emsp;
 <a href="https://www.linkedin.com/in/matias-palomo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&emsp;
-<a href="http://www.medium.com/@matias.p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>&emsp;
+<a href="http://www.medium.com/@matiaas.p" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>&emsp;
 <a href="https://www.twitter.com/MatiaasP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&emsp;</p>
 
 ### Badges
