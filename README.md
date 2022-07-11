@@ -13,7 +13,7 @@ Full Stack Developer
 *   ⚡️  In my free time, i pursue to play football, watch movies, series and being with friends 
 *   💬  Feel free to reach out me for consulting or just for some interesing discussion 
 *   📫  You can shoot me an email at matiaas.p@gmail.com . I'll try to responde as soon as I can 
-*   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> or my <a href="https://www.matiasp.vercel.app" target="_blank" rel="noreferrer">Portfolio</a> for more details about me. I'm open to feedback and suggestions
+*   💼  Please have a look at my <a href="https://www.canva.com/design/DAE_AmpgK5w/8E5TtdU6BHzvrr38jsLLVQ/view?utm_content=DAE_AmpgK5w&utm" target="_blank" rel="noreferrer">Resumé</a> or my <a href="https://matiasp.vercel.app" target="_blank" rel="noreferrer">Portfolio</a> for more details about me. I'm open to feedback and suggestions
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,js,html,css,react,figma,redux,sass,git,express,nodejs,postgres,mongodb,heroku,vercel,azure&perline=8)](https://skillicons.dev)
